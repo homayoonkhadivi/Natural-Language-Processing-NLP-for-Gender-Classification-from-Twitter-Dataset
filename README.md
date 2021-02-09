@@ -1,4 +1,4 @@
-![images](https://user-images.githubusercontent.com/57557590/107414323-167b2d80-6b27-11eb-9e25-2e4bbc93b318.png)
+![DMBUXwJVAAEFdM4](https://user-images.githubusercontent.com/57557590/107415235-5b539400-6b28-11eb-97e1-fa95c364719d.jpg)
 
 # Natural-Language-Processing-NLP-for-Gender-Classification-from-Tweeter-Dataset
 With the help of Natural Language Processing NLP, I could identify the gender classification from the Tweeter Dataset
