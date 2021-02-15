@@ -79,14 +79,17 @@ The dataset contains the following fields:
 # Data Cleaning
 ### Regular expression RE =>> "[^a-zA-Z]"
 ### Description lower
+In computer language, "BAND" and "band" words are understood differently. So I am going to convert all letters into lowercase
 ### Stopwords
+Using word_tokenize method instead of split is more beneficial. Because, for example if you have a word like "shouldn't". split method cannot divide it into two parts but word_tokenize divide it into two parts : should and n't.
 ### Word tokenize method
 ### Lemmatazation
+**This part, I am going to find root of letters (lemmatization) in order to do classification.**
 ### CountVectoizer
 ![download](https://user-images.githubusercontent.com/57557590/107987103-b41ca400-6fe2-11eb-95b7-6fd2d83d314d.png)
-
 The CountVectorizer provides a simple way to both tokenize a collection of text documents and build a vocabulary of known words, but also to encode new documents using that vocabulary.
 ### Bag of Words
+
 
 # Building Model:
 
