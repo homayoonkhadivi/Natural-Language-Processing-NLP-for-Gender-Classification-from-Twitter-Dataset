@@ -87,6 +87,7 @@ Using word_tokenize method instead of split is more beneficial. Because, for exa
 **This part, I am going to find root of letters (lemmatization) in order to do classification.**
 ### CountVectoizer
 ![download](https://user-images.githubusercontent.com/57557590/107987103-b41ca400-6fe2-11eb-95b7-6fd2d83d314d.png)
+
 The CountVectorizer provides a simple way to both tokenize a collection of text documents and build a vocabulary of known words, but also to encode new documents using that vocabulary.
 ### Bag of Words
 
