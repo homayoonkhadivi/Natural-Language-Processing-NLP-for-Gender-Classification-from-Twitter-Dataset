@@ -76,6 +76,18 @@ The dataset contains the following fields:
 
 * user_timezone: the timezone of the user
 
+# Data Cleaning
+### Regular expression RE =>> "[^a-zA-Z]"
+### Description lower
+### Stopwords
+### Word tokenize method
+### Lemmatazation
+### CountVectoizer
+![download](https://user-images.githubusercontent.com/57557590/107987103-b41ca400-6fe2-11eb-95b7-6fd2d83d314d.png)
+
+The CountVectorizer provides a simple way to both tokenize a collection of text documents and build a vocabulary of known words, but also to encode new documents using that vocabulary.
+### Bag of Words
+
 # Building Model:
 
 
